@@ -1,7 +1,7 @@
-## Click-React!
+## Click-React-Game! 
+Check out [my demo](http://click-react-game.herokuapp.com/)!
 
 ![screenshot](screenshot3.png)
-
 
 ## Overview
 
