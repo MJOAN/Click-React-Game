@@ -5,7 +5,7 @@ Check out [my demo](http://click-react-game.herokuapp.com/)!
 
 ## Overview
 
-For this assignment, we created a memory game with React. This assignment requires React UI components, managing component state, and responding to user events.
+For this assignment, I created a memory game with React. This assignment requires React UI components, managing component state, and responding to user events.
 
 ### Instructions
 
