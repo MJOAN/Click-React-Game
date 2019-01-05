@@ -5,9 +5,9 @@ Check out [my demo](http://click-react-game.herokuapp.com/)!
 
 ## Overview
 
-For this assignment, I created a memory game with React. This assignment requires React UI components, managing component state, and responding to user events.
+Here I created a memory game with React with React UI components, managing component state, and responding to user events.
 
-### Instructions
+### Process
 
 1. Check out [my demo](http://click-react-game.herokuapp.com/) to study the app's basic functionality. This demo is deployed on Heroku! I used [Create React App](https://github.com/facebookincubator/create-react-app) to start this project.
 
@@ -21,5 +21,5 @@ For this assignment, I created a memory game with React. This assignment require
 
 
 
-## Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
+##### Copyright
+##### Coding Boot Camp (C) 2016. All Rights Reserved.
