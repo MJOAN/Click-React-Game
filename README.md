@@ -5,7 +5,7 @@ Check out [my demo](http://click-react-game.herokuapp.com/)!
 
 ## Overview
 
-Here I created a memory game with React with React UI components, managing component state, and responding to user events.
+Here I created a memory game with React with React UI components, managing component state, and responding to user events. Thank you for Coding Boot Camp template code and overall guidance!
 
 ### Process
 
